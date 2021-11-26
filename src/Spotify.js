@@ -1,7 +1,7 @@
 const Canvas = require("canvas");
 const Util = require("./Util");
 const assets = require("./Assets");
-
+T
 /**
  * Spotify presence card builder
  */
